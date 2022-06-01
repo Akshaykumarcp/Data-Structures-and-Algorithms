@@ -1,2 +1,25 @@
-# Data-Structures-and-Algorithms
-Data Structures &amp; Algorithms using Python
+# Contents covered are mentioned below:
+
+## Data Structures
+
+- Lists
+- Linked Lists
+- Doubly Linked Lists
+- Stacks & Queues
+- Binary Trees
+- Hash Tables
+- Graphs
+
+## Algorithms
+
+- Sorting
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+## Searching
+
+- Breadth First Search
+- Depth First Search
